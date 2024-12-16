@@ -1,0 +1,6 @@
+train: D:/Yolov7n/Yolov7n/train/images
+val: D:/Yolov7n/Yolov7n/valid/images
+test: D:/Yolov7n/Yolov7n/test/images
+
+nc: 19
+names: ['Taladro', 'Bolsa de plastico', 'Desarmador', 'Llave', 'Botella de plastico', 'circuito', 'colilla de cigarro', 'diagrama electrico', 'Multimetro', 'PCB', 'Pinzas', 'Rebaba', 'Person', 'Celular', 'Chair', 'Back pack', 'Reloj', 'Car', 'Placa auto']
